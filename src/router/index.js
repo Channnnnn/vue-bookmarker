@@ -56,7 +56,7 @@ export default new Router({
       component: FirebaseAuth
     }
   ],
-  mode: 'history',
+  // mode: 'history',
 })
 
 
